@@ -511,6 +511,7 @@ a {
 
 .social-container {
     width: 208px;
+    margin-right: 80px;
 }
 
 .social-text-footer {
@@ -852,4 +853,13 @@ a {
 .subscribe-button:hover,
 .subscribe-button:focus {
     background-color: #404bbf;
+}
+
+.footer-media-text {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #fff;
+    margin-bottom: 16px;
 }
